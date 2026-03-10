@@ -1,1 +1,27 @@
+# Amazon E-Commerce Sales Analysis
 
+## Project Overview
+This project analyzes Amazon e-commerce sales data to indetify trends in product performance, customer purchasing behavior, and revenue distribution.
+
+## Tools used
+- Mircosoft Excel
+- Pivot Tables
+- Data Cleaning
+- Data Visualization
+
+## Business Questions
+1. Which product categories generate the most sales?
+2. Which states have the highest revenue?
+3. What months have the highest order volume?
+4. How do discounts affect total sales?
+
+## Key Insights
+- Weekly revenue and profit peaked in early January and stablized throughout February. Profit closely tracked revenue, indicating consistent margins throught the period.
+- The highest performing category, furniture, generated most of the profit, while other categories showed moderate revenue but stronger margins, suggesting optimization opportunities.
+- The top 10 states, mainly southern states, contributed most of the total revenue, indicating strong regional concentration.
+
+## Skills Demonstrated
+- Data cleaning
+- Pivot table analysis
+- Business insight generation
+- Dashboard creation
