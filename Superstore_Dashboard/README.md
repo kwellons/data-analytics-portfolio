@@ -19,6 +19,7 @@ Create an interactive dashboard to visualize sales, profit, and category trends 
 - Created line charts to show sales and profit trends by year
 - Analyzed category and subcategory performance
 - Added filters/slicers for Year, Region, and Category
+![Superstore Dashboard](images/dashboard_full.png)
 
 ## Key Insights
 - Technology and Furniture categories produced the highest revenue
