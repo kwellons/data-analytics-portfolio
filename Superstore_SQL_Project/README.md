@@ -3,25 +3,38 @@
 ## Objective
 Analyze sales and profit performance across products, categories, and time periods to support business decisions.
 
-## Tools
+## Dataset
+Contains Superstore order data with the following columns:
+- Order ID, Order date, Ship date
+- Customer informationL name, segment, state, region
+- Product Information: ID, category, subcategory, name
+- Financials: sales, profit, discount, shipping cost
+
+## Business Questions
+- In which quarter do sales peak?
+- Which product categories are most profitable?
+- What are total sales and profit?
+
+## Data Cleaning
+- Converted 'sales' and 'profit' columns from text to numeric for analysis
+- Fixed date formats (DD/MM/YYYY -> DATE)
+- Ensured data consistency for aggregation and time-based queries
+
+## Analysis
+- Aggregated sales and profit category and time period
+- Identified trends by month and quarter
+- Queries include 'SUM', 'GROUP BY', and 'EXTRACT' functions for aggregation
+
+## Key Insights
+- Sales consistently peak Q4
+- Technology and Furniture categories generate the highest revenue and profit
+- Total sales: $9,315,105 Total profit: $1,076,543.12
+
+## Tools Used
 - PostgreSQL
 - DBeaver
 
-## Key Business Questions
-1. What are total sales and profit?
-2. Which categories generate the most revenue?
-3. How do sales trend over months?
-
-## Data Cleaning
-- Profit and sales columns contained '$' symbols and commas.
-- Converted colums to numeric to allow aggregation.
-
-## Insights
-- Total sales: $9,315,105, Total profit: $1,076,543.12
-- Top categories: Technology and Furniture generate the most revenue and profit.
-- Monthly trend: Sales peak in Q4 showing strong seasonal demand.
-
-## Skills Demonstrated
-- SQL data cleaning (ALTER TABLE, CAST, REPLACE)
-- Aggregation (SUM, GROUP BY)
-- Portfolio-ready reporting and visualization
+## Files in This Project
+- 'queries.sql' (all SQL queries used)
+- 'superstore_dataset_cleaned.csv' (raw dataset)
+- 'results/' (exported tables)
