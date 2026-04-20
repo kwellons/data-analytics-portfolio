@@ -74,6 +74,3 @@ Improving profitability requires a shift from volume-driven thinking to margin-a
 - Discount impact analysis
 - Business insight generation
 - Data storytelling for decision-making
-
-## Files in This Project
-- 'superstore_dataset_cleaned.csv' (raw dataset)
