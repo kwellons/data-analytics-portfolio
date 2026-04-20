@@ -10,9 +10,10 @@ This portfolio showcases my data analysis projects, demonstrating skills in Exce
 [View Full Project ->](Excel-Amazon-Sales-Analysis/README.md)
 
 ### 2. Superstore Sales Analysis (SQL)
-- Cleaned and transformed sales and profit data using SQL
-- Performed aggregation and time-based analysis to understand revenue and profitability trends
-- Key Insight: Q4 consistently generates the highest sales, indicating strong seasonal demand
+- Conducted end-to-end SQL analysis of retail sales data to diagnose drivers of profit and pricing inefficiencies
+- Uncovered that discounts above ~20% systemically lead to losses, revealing a company-wide pricing strategy issue
+- Demonstrated that aggressive discounting reduces both profitability and revenue performance, challenging common assumptions about demand stimulation
+- Delivered data-driven recommendations to improve margin performance and optimize promotional strategy
 
 [View Full Project ->](Superstore_SQL_Project/README.md)
 
