@@ -25,7 +25,6 @@ This analysis aimed to answer the following questions:
 | Technology      | ~15%         |
 | Office Supplies | ~13%         |
 | Furniture       | ~7%          |
-#### Insight:
 - Furniture significantly underperforms compared to other categories
 - However, deeper ananlysis shows this is driven by pricing and cost structure, not category demand alone
 ### 3. Discount Impact on Profitability
