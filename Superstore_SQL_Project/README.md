@@ -20,11 +20,11 @@ This analysis aimed to answer the following questions:
 - The business maintains an overall profit margin of approximately 12%
 - This indicates moderate profitability but highlights sensitivity to pricing strategy
 ### 2. Category Performance
-| Category | Profit Margin |
-|--------------------------|
-| Tech     | 15%           |
-| Office   | 13%           |
-|Furniture | 7%            |
+| Category        | Profit Margin |
+|----------------|--------------|
+| Technology      | ~15%         |
+| Office Supplies | ~13%         |
+| Furniture       | ~7%          |
 #### Insight:
 - Furniture significantly underperforms compared to other categories
 - However, deeper ananlysis shows this is driven by pricing and cost structure, not category demand alone
