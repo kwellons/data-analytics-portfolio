@@ -24,3 +24,11 @@ This portfolio showcases my data analysis projects, demonstrating skills in Exce
 - Interactive slicers for filtering by Year, Region, and Category
 
 [View Full Project ->](Superstore_Dashboard/README.md)
+
+### 4. Online Customer Behavior Analysis (Python)
+- Built a customer segmentation model using RFM (Recency, Frequency, Monetary) analysis to evaluate purchasing behavior in an e-commerce dataset
+- Cleaned and transformed raw transaction data in Python (pandas), including handling missing values and creating customer-level metrics
+- Identified distinct customer segments (Champions, Loyal Customers, At Risk, and Others) based on behavioral patterns and spending activity
+- Found that a small group of "Champion" customers drives a disproportionate share of total revenue, while a significant "At Risk" segment highlights churn potential
+
+[View Full Project ->](Customer_Behavior_Analysis/README.md)
