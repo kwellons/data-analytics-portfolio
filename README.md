@@ -17,11 +17,11 @@ This portfolio showcases my data analysis projects, demonstrating skills in Exce
 
 [View Full Project ->](Superstore_SQL_Project/README.md)
 
-### 3. Superstore Sales Analysis (Power BI)
-- Cleaned and transformed the data for analysis
-- Created KPIs: Total Sales, Total Profit, Average Discount, Order Count, Profit Margin
-- Built trend charts, category breakdowns, and regional maps
-- Interactive slicers for filtering by Year, Region, and Category
+### 3. HR Attrition Analysis (SQL & Power BI)
+- Analyzed employee attrition trends using SQL and Power BI to identify workforce groups with elevated turnover risk
+- Built an interactive HR analytics dashboard focused on attrition patterns by tenure, job level, overtime status, and compensation level
+- Discovered that employees with low tenurem overtime requirements, and lower compensation experienced attrition rates exceeding 57%, identifying a high-risk workforce segment
+- Delivered business-focused insights and retention recommendations through data storytelling, KPI analysis, and workforce driver investigation
 
 [View Full Project ->](Superstore_Dashboard/README.md)
 
